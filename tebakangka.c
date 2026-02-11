@@ -20,6 +20,5 @@ int main () {
             printf("selamat anda benar menebak angka %d \n", angka_rahasia);
         } 
     } while (tebak != angka_rahasia);
-
     return 0;
 }
